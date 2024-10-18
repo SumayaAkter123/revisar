@@ -19,7 +19,7 @@ void main()
           home:Scaffold(
             appBar:AppBar(
               leading: Icon(Icons.skip_previous),
-              title: Text("User profile",style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold)),
+              title: Text("New user Profile",style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold)),
               titleSpacing: 5,
 
               backgroundColor: Colors.yellow,
